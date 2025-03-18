@@ -1,6 +1,6 @@
 ---
 title: "SERIES DE TIEMPO ARIMA"
-author: "Yza V. Toro"
+author: "William A. Gutierrez V."
 date: "`r Sys.Date()`"
 output:
   word_document: default
